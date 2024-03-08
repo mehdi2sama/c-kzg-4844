@@ -24,7 +24,7 @@ installDirs   = @[
   "bindings/nim"
   ]
 
-requires "nim >= 1.2.0",
+requires "nim >=2.4.0",
          "stew"
 
 ##################################################
